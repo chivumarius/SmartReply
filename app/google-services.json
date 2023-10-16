@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225836812093",
+    "project_id": "smartreply-f3cc9",
+    "storage_bucket": "smartreply-f3cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225836812093:android:7cf02e545f92fe4c73a754",
+        "android_client_info": {
+          "package_name": "com.chivumarius.smartreply"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF8JF7yjXZerBp0FzAUNjeBxCEnf1LrS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
